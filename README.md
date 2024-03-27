@@ -12,7 +12,7 @@ You can install the development version of moorelabr from [GitHub](https://githu
 
 ``` r
 devtools::install_github("icarda-git/QBMS")
-devtools::install_github("rvcrawford/moorelabhelpR")
+devtools::install_github("rvcrawford/moorelabr")
 ```
 
 ## Example
