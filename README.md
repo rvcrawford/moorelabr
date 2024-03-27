@@ -24,3 +24,4 @@ library(moorelabr)
 ## basic example code
 ```
 
+Package development is anticipated to follow steps outlined at https://kbroman.org/AdvData/18_rpack_demo.html

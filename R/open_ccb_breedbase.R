@@ -1,4 +1,4 @@
-#configure and list trials for ccb BB, helpful precursor to pulling data
+#' configure and list trials for ccb BB, helpful precursor to pulling data
 
 #' @return A list of trials to be explored further via ```QBMS```
 #' @param Function takes no arguments
