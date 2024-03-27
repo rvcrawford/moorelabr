@@ -1,1 +1,3 @@
-print("wasssup")
+wassup <- function(){
+  print("wassup")
+}
