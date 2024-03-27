@@ -14,13 +14,13 @@
 #   Test Package:              'Ctrl + Shift + T'
 
 #' Say hi to a valued member
-
+hi <- function() {
+  print("Hi, valued team member!")
+}
 #' @return A friendly greeting
 #' @examples
 #' hi()
 
-hi <- function() {
-  print("Hi, valued team member!")
-}
+
 
 #add dummy comment

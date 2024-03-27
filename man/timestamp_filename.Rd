@@ -6,16 +6,6 @@
 \usage{
 timestamp_filename(my_File_name = "string")
 }
-\arguments{
-\item{myFilename}{A string, likely a filename}
-}
-\value{
-a string containing a timestamp added. Timestamp is rounded to the nearest minute
-}
 \description{
 Insert a timestamp into a string, likely a filename
-}
-\examples{
-timestamp_filename("my_awesome_dataset.csv")
-timestamp_filename("superduper.awesome_dataset.xlsx")
 }

@@ -6,17 +6,6 @@
 \usage{
 open_ccb_breedbase()
 }
-\arguments{
-\item{Function}{takes no arguments}
-}
-\value{
-A list of trials to be explored further via ```QBMS```
-}
 \description{
 configure and list trials for ccb BB, helpful precursor to pulling data
-}
-\examples{
-open_ccb_breedbase()
-QBMS::set_trial("2023")
-QBMS::list_studies()
 }

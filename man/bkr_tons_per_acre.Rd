@@ -6,16 +6,6 @@
 \usage{
 bkr_tons_per_acre(x)
 }
-\arguments{
-\item{x}{yield (presumably dry) expressed in lbs}
-}
-\value{
-yields in tons per acre
-}
 \description{
 Translate 18 square foot plot yields into tons per acre
-}
-\examples{
-ylds <- c(4.34,5.8, 2.76)
-bkr_tons_per_acre(ylds)
 }

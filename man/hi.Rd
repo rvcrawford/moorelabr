@@ -6,12 +6,6 @@
 \usage{
 hi()
 }
-\value{
-A friendly greeting
-}
 \description{
 Say hi to a valued member
-}
-\examples{
-hi()
 }

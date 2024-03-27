@@ -6,17 +6,6 @@
 \usage{
 datestamp_data(x, my_date = "string")
 }
-\arguments{
-\item{x}{value of data, probably notes of some sort}
-}
-\value{
-a string containing a datestamp added.
-}
 \description{
 Insert a datestamp into a vector of data, probably data exported to breedbase
-}
-\examples{
-x <- 1:10
-my_date <- "2023-12-23"
-datestamp_data(x, my_date)
 }

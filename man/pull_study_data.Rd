@@ -6,19 +6,6 @@
 \usage{
 pull_study_data(x = "string")
 }
-\arguments{
-\item{x}{A string that is the name of a study available in Breedbase.}
-}
-\value{
-data from some study
-}
 \description{
 Pull data from some study, simple helper function combining two QBMS functions
-}
-\examples{
-open_ccb_breedbase()
-QBMS::set_trial("2023")
-QBMS::list_studies()
-pull_study_data("23WIWPALT")
-lapply(c("23NYCCALT", "23NYHVALT"), pull_study_data)
 }
