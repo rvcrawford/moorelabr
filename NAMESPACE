@@ -3,5 +3,6 @@
 export(bkr_tons_per_acre)
 export(datestamp_data)
 export(open_ccb_breedbase)
+export(pull_ccb_date)
 export(pull_study_data)
 export(timestamp_filename)

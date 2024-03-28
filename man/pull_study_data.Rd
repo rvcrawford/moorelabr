@@ -10,7 +10,7 @@ pull_study_data(x = "string")
 \item{x}{A string that is the name of a study available in Breedbase.}
 }
 \value{
-data from some study
+data from some study as a data.table
 }
 \description{
 Pull data from some study, simple helper function combining two QBMS functions
