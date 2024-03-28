@@ -2,7 +2,7 @@
 % Please edit documentation in R/pull_ccb_date.R
 \name{pull_ccb_date}
 \alias{pull_ccb_date}
-\title{splits a string separated by a comma, typically a breedbase data variable that has a timestamp}
+\title{splits a string separated by a comma and keeps the date, typically a breedbase data variable that has a timestamp}
 \usage{
 pull_ccb_date(x)
 }
@@ -13,7 +13,7 @@ pull_ccb_date(x)
 a date
 }
 \description{
-splits a string separated by a comma, typically a breedbase data variable that has a timestamp
+splits a string separated by a comma and keeps the date, typically a breedbase data variable that has a timestamp
 }
 \examples{
 my_dat = c("5,2023-05-15T14:04:44.55",  "7,2023-05-15T14:04:57.667")
