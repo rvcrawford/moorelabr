@@ -7,7 +7,7 @@
 timestamp_filename(my_File_name = "string")
 }
 \arguments{
-\item{my_File_name}{A string, likely a filename}
+\item{my_File_name}{A string, intended to be a filename (i.e. ends in .csv, .xlsx, etc.)}
 }
 \value{
 a string containing a timestamp added. Timestamp is rounded to the nearest minute
