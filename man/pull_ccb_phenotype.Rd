@@ -17,5 +17,5 @@ splits a string separated by a comma and keeps the phenotypic observation, typic
 }
 \examples{
 my_dat = c("5,2023-05-15T14:04:44.55",  "7,2023-05-15T14:04:57.667")
-pull_ccb_date(my_dat)
+pull_ccb_phenotype(my_dat)
 }
