@@ -1,4 +1,4 @@
-#' splits a string separated by a comma, typically a breedbase data variable that has a timestamp
+#' splits a string separated by a comma and keeps the date, typically a breedbase data variable that has a timestamp
 #'
 #' @param x
 #'
