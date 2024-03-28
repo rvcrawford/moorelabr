@@ -24,6 +24,6 @@ library(moorelabr)
 ## basic example code
 ```
 
-A number of ```moorelabhelpR``` functions are built upon ```QBMS```, which queries BreedBase.
+A number of ```moorelabr``` functions are built upon ```QBMS```, which queries BreedBase.
 
 Package development is anticipated to follow steps outlined at https://kbroman.org/AdvData/18_rpack_demo.html
