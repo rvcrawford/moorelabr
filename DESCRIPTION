@@ -11,5 +11,6 @@ LazyData: true
 RoxygenNote: 7.3.1
 Imports: 
     data.table,
-    QBMS
+    QBMS,
+    stringr
 Roxygen: list(markdown = TRUE)
