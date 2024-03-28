@@ -1,6 +1,6 @@
 #' Insert a timestamp into a string, likely a filename
 
-#' @param my_File_name A string, likely a filename
+#' @param my_File_name A string, intended to be a filename (i.e. ends in .csv, .xlsx, etc.)
 
 #' @return a string containing a timestamp added. Timestamp is rounded to the nearest minute
 #' @export
